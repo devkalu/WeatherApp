@@ -1,0 +1,1 @@
+this project was inspired by the weather project from Fullstack React Native, i decided to expand on the project by including forcast for 5 days.while building this project, i learnt how to fetch data from a remote api.
